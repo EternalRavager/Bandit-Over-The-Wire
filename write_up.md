@@ -10,7 +10,7 @@ And for reading files that start with ‘-‘ I have to use ‘./’ before the 
 -	For lvl 6 I simply found all the files and read the one file for which the permission was not denied had the pswd.
 - For lvl 7 I learnt about the ‘grep’ cmd and used it to find the word millionth and obtained the pswd.
 -	For lvl 8 I learnt about the cmd ‘sort’ and ‘uniq’ to find out the unique lines in a sorted manner. I used a tag in uniq to see which line occurred only once.
--	For lvl 9 I learnt the use of ‘strigns’ cmd to find all printable characters and used grep along with it.
+-	For lvl 9 I learnt the use of ‘strings’ cmd to find all printable characters and used grep along with it.
 -	For lvl 10 I used ‘base64 -d’ to decode the answer.
 -	I used youtube and google to learn some stuff, like the use of ssh and cmds.
 -	For lvl 11 I took help and then completed it.
@@ -82,12 +82,12 @@ FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
 
 ## <p align="center"><ins>Lvl 10</ins>
 dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
-![lvl11 pass](images/Screenshot%202024-10-11%20133057.png)
+![lvl11 pass](images/Screenshot%202024-10-13%20174250.png)
 </p>
 
 ## <p align="center"><ins>Lvl 11</ins>
-morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
-![lvl12 pass](images/Screenshot%202024-10-11%20131658.png)
+7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+![lvl12 pass](images/Screenshot%202024-10-13%20175443.png)
 </p>
 
 ## <p align="center"><ins>Lvl 12</ins>
